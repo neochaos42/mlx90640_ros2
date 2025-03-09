@@ -1,0 +1,6 @@
+# Configuration parameters for mlx90640_ros node
+mlx90640_ros:
+  camera.i2c_address: 0x33
+  camera.refresh_rate: 8
+  camera.emissivity: 0.95
+  camera.ambient_temperature: 23.0
