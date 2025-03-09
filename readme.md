@@ -12,7 +12,7 @@ The `mlx90640_ros` package provides a ROS node that interfaces with the MLX90640
 
     ```sh
     cd ~/dev_ws/src
-    git clone https://github.com/neochaos42/mlx90640_ros
+    git clone https://github.com/neochaos42/mlx90640_ros2
     ```
 
 2. Install dependencies:
